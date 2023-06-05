@@ -45,9 +45,9 @@ a.nav-link{
 .buynow{
     border-radius: 20px;
 }
-.finale{
+/* .finale{
     padding: 50px;
-}
+} */
 
 #searchimg{
     height: 20px;
@@ -57,7 +57,7 @@ a.nav-link{
 .btn2{
     border-radius: 0;
 }
-   
+
 #navbarNav{
     justify-content: center;
     padding-bottom: 20px;
