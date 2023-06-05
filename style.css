@@ -1,0 +1,70 @@
+.navbar{
+    background-color: #ffd904;
+    color: white;
+    padding: 0 80px 0 80px;
+    justify-content: center;
+    margin: auto;
+}
+
+.navcont{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.form-control{
+    border-radius: 0;
+    border: 1;
+
+}
+.nav-link{
+    color: white;
+}
+.collapse{
+    padding-right: 20px ;
+}
+.row{
+    padding: 30px 0 30px;
+}
+.social{
+    padding: 10px; width: 70%;
+}
+.descp{
+    padding: 15px;
+}
+.navbar-nav{
+    margin-top: 9px;
+}
+img.bg-info{
+    display:flex;
+    height: 37px;
+    width: 57px;
+}
+a.nav-link{
+    font-size: large;
+}
+.buynow{
+    border-radius: 20px;
+}
+.finale{
+    padding: 50px;
+}
+
+#searchimg{
+    height: 20px;
+    width: 20px;
+}
+
+.btn2{
+    border-radius: 0;
+}
+   
+#navbarNav{
+    justify-content: center;
+    padding-bottom: 20px;
+}
+.navbar{
+   padding-top: 10px;
+}
+.navbar-brand {
+   padding-bottom: 20px;
+}
