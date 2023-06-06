@@ -14,7 +14,6 @@
 .form-control{
     border-radius: 0;
     border: 1;
-
 }
 .nav-link{
     color: white;
@@ -59,7 +58,7 @@ a.nav-link{
 }
 
 #navbarNav{
-    justify-content: center;
+    justify-content: flex-end;
     padding-bottom: 20px;
 }
 .navbar{
@@ -67,4 +66,8 @@ a.nav-link{
 }
 .navbar-brand {
    padding-bottom: 20px;
+}
+
+.card{
+    margin: 0 auto;
 }
